@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hayah</string>
+    <string name="todo">splash_down</string>
+    <string name="background_splash">background_splash</string>
+    <string name="mog">mog</string>
+    <string name="Or">or</string>
+    <string name="title_activity_register">Register</string>
+    <string name="login">Login</string>
+    <string name="register_donor">register donor</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="mobile_number_or_password_is_wrong">Mobile Number or password is wrong</string>
+    <string name="remember">Remember</string>
+    <string name="search_for_donor">Search for Donor</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="logo_image">logo_image</string>
+    <string name="or">or</string>
+
+</resources>

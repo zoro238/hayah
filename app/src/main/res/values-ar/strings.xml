@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حياه</string>
+    <string name="todo">المربع بالاسفل بالسبلاش</string>
+    <string name="background_splash">خلفية_السبلاش</string>
+    <string name="mog">موج_السبلاش</string>
+    <string name="or">أو</string>
+    <string name="Or">أو</string>
+    <string name="title_activity_register">تسجيل متبرع</string>
+    <string name="login">دخول</string>
+    <string name="register_donor">تسجيل متبرع</string>
+    <string name="forgot_password">نسيت كلمة السر</string>
+    <string name="mobile_number_or_password_is_wrong">رقم الموبايل</string>
+    <string name="remember">تذكرني</string>
+    <string name="search_for_donor">بحث عن متبرع</string>
+    <string name="mobile_number">رقم المحمول</string>
+    <string name="password">كلمة السر</string>
+    <string name="logo_image">صورة اللوقو</string>
+</resources>
